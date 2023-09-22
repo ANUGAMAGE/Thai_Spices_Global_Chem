@@ -4,7 +4,7 @@
 #
 # -----------------------------------
 
-class ThaiSpices(object):
+class CyclicDypeptides(object):
 
     def __init__(self):
 
