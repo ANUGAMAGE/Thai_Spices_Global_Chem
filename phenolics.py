@@ -4,7 +4,7 @@
 #
 # -----------------------------------
 
-class ThaiSpices(object):
+class Phenolics(object):
 
     def __init__(self):
 
