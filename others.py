@@ -4,7 +4,7 @@
 #
 # -----------------------------------
 
-class ThaiSpices(object):
+class Unclassified(object):
 
     def __init__(self):
 
